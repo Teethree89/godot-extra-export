@@ -14,7 +14,7 @@ Not limited by file type etc.
 2. Expand the "Metadata" panel in the inspector.
 3. Click on "Array Size" for either Directories To Add or Files to Add.
 4. Either add to the array size or click "Add Element".
-5. Change the item type (pencil icon on the right) to "PackedStringArray" for each element you add.
+5. Change the item type (pencil icon on the right) to "String" for each element you add.
 6. For Folders: Copy/Paste the folder path res://path/to/your/folder/ make sure to include the trailing / to get all contents of it.
 7. For Files: Copy/Paste the direct path res://path/to/your/file.extension.
 8. Export your game, you can choose to exclude these files in your resources if you don't want copies in the PCK.
