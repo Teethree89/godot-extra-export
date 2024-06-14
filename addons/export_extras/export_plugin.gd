@@ -1,7 +1,7 @@
 @tool
 extends EditorExportPlugin
 
-#1. Add new elements to the metadata as PackedStringArray items
+#1. Add new elements to the metadata arrays as "String" items
 #2. Paste in your direct paths
 #Note: Folders/Directories should be res://path/to/your/folder/ to get all of its files inside.
 #Note: Files should be the exact path res://path/to/your/file.extension
