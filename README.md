@@ -3,6 +3,10 @@ A simple metadata based plugin to export additional files to your final exe dire
 Useful for things like not having to copy/paste external scripts or icon files that you want to export with your game.
 Not limited by file type etc.
 
+If this saves you a little time, [buy me a coffee](https://paypal.me/ABPaintball/5).
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-$5%20PayPal-00457C?logo=paypal)](https://paypal.me/ABPaintball/5)
+
 # Installation:
 1.Drag and drop the addons folder into your main res:// folder
 2. Goto Project Settings>Plugins
